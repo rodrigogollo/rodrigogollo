@@ -2,22 +2,24 @@
 Software Engineer | TypeScript | Node.js | Python | React | AWS | Azure | Jest
 
 ## 🚀 About Me 
-- I'm a passionate Software Engineer who loves building things with code.
+- I'm a Software Engineer focused on crafting clean, efficient, and impactful solutions that solve real-world problems and deliver meaningful value.
 - My primary playground is JavaScript, where I craft beautiful user interfaces with React and power the backend with Node.js.
-- Currently, I'm diving into the world of Rust 🦀 to level up my low-level programming skills and explore new horizons.
+- Currently, I'm diving into the world of AI 🤖 to explore intelligent systems, automate tasks, and solve real-world problems using cutting-edge technologies.
 - I’m always on the lookout for Open-Source projects to contribute to, so if you have something exciting, let’s collaborate!
 
 ## 🛠️ Tech Stack 
 Here are the tools and technologies I work with:
-- **Frontend:** React, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express
-- **Languages:** TypeScript, Python, Rust (learning) & Go (learning)
-- **Tools:** Git, GitHub, GitLab, Neovim
+- **Frontend:** HTML, CSS, React & Tailwind.
+- **Backend:** Node.js, Express.
+- **Languages:** JavaScript, Python.
+- **Cloud & DevOps:** AWS, Azure, Apache Airflow.
+- **Tools:** Git, GitHub, GitLab, Neovim.
 
 ## 🌱 What I’m Currently Learning 
-- **Rust:** Exploring systems programming and memory safety.
-- **Go:** Exploring high-performance, fast compilation and simple syntax.
-- **Performance Optimization:** Making apps faster and more efficient.
+- 🤖 **AI in Practice:** Understanding how to leverage AI tools to automate tasks and enhance user experiences.
+- 🦀 **Rust:** Diving into systems programming with a focus on memory safety and performance.
+- 💼 **Freelancing & Entrepreneurship:** Building skills in client management, self-directed projects, and creating value-driven businesses.
+- 📈 **Performance Optimization:** Improving application speed and efficiency through optimization techniques.
 
 ## 💡 Projects I’m Proud Of
 Here are a few projects I’ve worked on:
