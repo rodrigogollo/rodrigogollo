@@ -25,6 +25,7 @@ Here are the tools and technologies I work with:
 Here are a few projects I’ve worked on:
 - [Spotify Pocket](https://github.com/rodrigogollo/spotify-pocket): A Spotify Desktop Minimalist Player (Winamp like).
 - [Twitch Clips to Video](https://github.com/rodrigogollo/go-twitch-clips-to-video): A tool that compile twitch clips into a full length video.
+- [Velvet Cake Jar](https://github.com/rodrigogollo/velvet-cake-jar): Developed a warm, inviting website showcasing signature treats and simplifying online orders with a user-friendly experience.
 - [Portfolio](https://rodrigogollo.github.io/portfolio/): My Personal Portfolio.
 
 # 📫 How to Reach Me
